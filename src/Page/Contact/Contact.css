@@ -80,7 +80,7 @@ button:focus {
 }
 
 /* ======================== */
-@media (max-width: 600px) {
+@media (max-width: 1350px) {
   .contact {
     margin: 0;
     padding: 0;

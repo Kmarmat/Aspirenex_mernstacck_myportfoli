@@ -49,7 +49,7 @@
   padding: 20px;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 1350px) {
   .edu {
     margin: 0;
     padding: 0;
