@@ -44,7 +44,7 @@
   transition: 1s;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 1350px) {
   .home-container {
     padding: 0;
     margin: 0;

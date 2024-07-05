@@ -46,7 +46,7 @@
   color: white;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 1350px) {
   .about {
     margin: 0;
     padding: 0;
